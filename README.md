@@ -1,5 +1,5 @@
 # 🎮 The Elite Python Game Collection
-Welcome to my official coding repository! This project features two fully functional games built from scratch using Python.
+Welcome to my official coding repository! This project features two fully functional games(with many more coming!) built from scratch using Python.
 
 ## 📁 Explore My Projects
 
