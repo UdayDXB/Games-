@@ -2,7 +2,7 @@ import random
 
 def play():
     options = ["rock", "paper", "scissors"]
-    user = input("Choose rock, paper, or scissors: ").lower()
+    user = input("Choose rock, paper, or scissors: ").lower() 
     comp = random.choice(options)
     
     print(f"Computer chose: {comp}")
