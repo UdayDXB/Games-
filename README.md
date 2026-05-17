@@ -14,7 +14,7 @@ A classic battle of logic and luck.
 *   **Gameplay:** Test your strategy against the computer's random moves.
 *   **Structure:** Clean Python logic using the `random` module.
 
-### ⚡ Neon Music Keys Game (`Neon_Music_Keys_Game.`)
+### ⚡ [Neon Music Keys Game]
 A fast-paced arcade rhythm game built inside a glowing, dark sci-fi theme using Python's built-in graphics. 
 
 * **How to Play**: Watch the colorful neon tiles fall down the lanes. Tap the matching key (**A**, **S**, **D**, or **F**) the exact millisecond the tile crosses into the bottom "Hit Zone" box.
