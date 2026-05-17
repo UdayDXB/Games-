@@ -1,5 +1,5 @@
 # 🎮 The Elite Python Game Collection
-Welcome to my official coding repository! This project features two fully functional games(with many more coming!) built from scratch using Python.
+Welcome to my official coding repository! This project features three fully functional games(with many more coming!) built from scratch using Python.
 
 ## 📁 Explore My Projects
 
@@ -13,6 +13,15 @@ A high-intensity rescue mission built with **Pygame**.
 A classic battle of logic and luck.
 *   **Gameplay:** Test your strategy against the computer's random moves.
 *   **Structure:** Clean Python logic using the `random` module.
+
+### ⚡ Neon Music Keys Game (`Neon_Music_Keys_Game.`)
+A fast-paced arcade rhythm game built inside a glowing, dark sci-fi theme using Python's built-in graphics. 
+
+* **How to Play**: Watch the colorful neon tiles fall down the lanes. Tap the matching key (**A**, **S**, **D**, or **F**) the exact millisecond the tile crosses into the bottom "Hit Zone" box.
+* **Scoring**: 
+  * Perfect hit = **+10 points**
+  * Missed key / Slow reaction = **-2 points**
+* **The Twist**: The higher your score climbs, the faster the music blocks drop! How long can your reflexes keep up?
 
 ---
 
