@@ -6,7 +6,7 @@ class NeonRhythmGame:
         self.root = root
         self.root.title("Neon Rhythm Tapper ⚡")
         self.root.geometry("400x600")
-        self.root.configure(bg="#0d0d1a")  
+        self.root.configure(bg="#0d0d1a") 
 
   
         self.score = 0
